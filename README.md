@@ -1,2 +1,2 @@
 # Git---practical
-A practical demo fir Git 
+A practical demo for Git 
